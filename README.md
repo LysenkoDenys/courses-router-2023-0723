@@ -6,7 +6,7 @@ https://courses-router-sort.vercel.app/
 
 Sample:
 
-![console](https://github.com/LysenkoDenys/courses-router-2023-0723/assets/105970854/d5855442-606a-4e1e-b304-8f7269c6c7a6)
+![courses](https://github.com/LysenkoDenys/courses-router-sort-2023-07-23/assets/105970854/c7a56b30-e4af-4e08-a8f6-60908e5f2956)
 
 This React JS project not uses API - we use dummy array of (objects) courses.
 
